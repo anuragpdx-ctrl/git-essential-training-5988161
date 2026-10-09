@@ -1,3 +1,3 @@
 This is a new line.
-Added another line.
+To create conflict.
 This is main on remote repo.
